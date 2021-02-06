@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "836538175895",
+    "project_id": "cyprusmuseum-802b9",
+    "storage_bucket": "cyprusmuseum-802b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836538175895:android:ec586527ffdaef478534d2",
+        "android_client_info": {
+          "package_name": "com.example.cyprus_museum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836538175895-5dn0ngahr7clccjb7h2975ncldqof1tl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cyprus_museum",
+            "certificate_hash": "b4cdbe4a0bb79deb5fbc7dfdf52eb0fb89cbe100"
+          }
+        },
+        {
+          "client_id": "836538175895-cg4mhnhnss7fsh2cr7vf5j051smvj6ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKuZMUw-us-5iOM61rQwwPbViHGmhOV6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836538175895-cg4mhnhnss7fsh2cr7vf5j051smvj6ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,94 @@
+name: cyprus_museum
+description: Museum Guide mobile application
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^2.1.0
+  dio: ^3.0.10
+  flutter_rating_bar: ^3.2.0+1
+  http: ^0.12.0+4
+  splashscreen: ^1.2.0
+  flare_flutter: ^2.0.1
+  loading_indicator: ^1.1.0
+  device_info: ^0.4.2+1
+  convert: ^2.1.1
+  auto_size_text: ^2.1.0
+  beacons_plugin: ^1.0.12
+  youtube_player_flutter: ^6.1.1
+  flutter_tts: ^2.1.0
+  firebase_storage: ^7.0.0
+  firebase: ^8.0.0
+
+  cupertino_icons: ^1.0.0
+  eva_icons_flutter: ^2.0.1
+  carousel_slider: ^2.3.1
+  flutter_svg: ^0.18.0 # help us to use SVG in our app
+  provider: ^4.3.1 # for State management
+  url_launcher: ^5.7.10
+  google_fonts: ^1.1.1
+  bubble: ^1.1.9+1
+  intl: ^0.16.1
+  flutter_dialogflow: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+    - assets/images/Museu-de-Artes-Assis-Chateaubriand.jpg
+    - assets/images/buscando.flr
+    - assets/images/next.flr
+    - assets/images/pintura.jpg
+    - assets/images/mona.jpg
+    - assets/images/bemvindo.png
+    - assets/images/bg.png
+    - assets/images/obrigado.png
+    - assets/images/cadastro.png
+    - assets/images/noite_estrelada.jpg
+    - assets/museum-youtube-302712-fcb8e63903d6.json
+    # - google_fonts/
+  fonts:
+    - family: poppins
+      fonts:
+        - asset: assets/Poppins-Regular.ttf
+        - asset: assets/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/Poppins-Black.ttf
+          weight: 900
+
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Bold.ttf
+        - asset: assets/fonts/Montserrat-Light.ttf
+        - asset: assets/fonts/Montserrat-Medium.ttf
+        - asset: assets/fonts/Montserrat-Regular.ttf
+        - asset: assets/fonts/Montserrat-SemiBold.ttf
+        - asset: assets/fonts/Montserrat-Thin.ttf
+
+    - family: Muli
+      fonts:
+        - asset: assets/fonts/muli/Muli.ttf
+        - asset: assets/fonts/muli/Muli-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/muli/Muli-Light.ttf
+          weight: 300
+
