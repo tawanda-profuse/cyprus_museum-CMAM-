@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "museum-youtube-302712",
-  "private_key_id": "",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzFcLHzc1lg5x8\n/C2Xt99i4QPch7S8rPeQRoHP3dlO74dluPS/ByaCiaDagCUob94sSBmzG3t026VT\nxo3T25jm8k0Qj9SC+arIJNGzITfobJ1CAvKbeWdJB8V6NQusf+Y/ObYeq3BGZ5V2\nuF/3v6GuDYxYRM6DMabC62CVRPozDSg8RLJyrHQdfKtF1nGs8sIiRFdbx5157Fpp\nRfcWGPftKZg7+yPT/QeKU88URK6pWumpH0ELDu3P1o2jK6BM4Erj1kjceQB0uLWK\ns6P6Er3vHPRUmOZW7Mfmuca7INamk18pNGsZ0fA60jEP785QHrKXabuo3oSBV4Ki\n9XTnFSZdAgMBAAECggEAFs2pjLmW8tssXPnbcFs4daXDURxylifMKjHgK7DLD/MO\nIZTIjV6Ct9KAifIRSTHdb3QK2bShJsMlLSK2QojO0nF+AKLf44GZDn0puo57SPwz\nlgk8DTILRdBYg/QnNWLf1aMqnoMj+8MK1CAsECb1lm0hNsgkJ6511pIULU2oMkG+\nofWAlmo5OUU2Vzzmhs0/IxtDCVqWpXsG2jmERplok0Sg9zSBHoZRGp0A0IzBjhxq\nf0qIThtRG7uZVG35zzf6+SROLSmhSB6KmJbR1+NjrLKYrJcvmyj3ObPsvZqHetg2\n53eHza3u4+9xcFZY0LJJQNdzmGGxJBGfUlwjIsb4PQKBgQD0Sqjo5ycLAthoidzj\nz6fbTpRdeA5DV0esJjUqqOb/SKr1HMbgqajmVUwDLbi4AH5A22W/kXIQ9YEOOrF5\nvglg5bTT38fgzsMKxon91YCdDqzuc4/0yevWOKAJhH8N74AGnoUY7g37Ost5MGUD\nwmm51jbCMdYIXTr3CHQkQnKdawKBgQC7qwwURt8m6yPjnyGImNvp+c6Grabibmz2\nAgTZjYIAmQu+lTwqxrT1N+kq685A3xmQuyoCyjaEeIOKwfvA+vOu56qijw7b68k5\niIOE/Wt1RECdkkKz0WVecL3oulnYAvMFHCRgVlpw8H5RDOuKvnMcD1+QxPGtBFZc\nDf17Ar+1VwKBgQDD2TszhWXSuRRAMw6JAQjklEnz6XUd3dJTHEqRidmvnlWYrtpu\ncPY8uvN2tOgbdCHD42DeRT+6guhVPQ7duFISgfYHyqeW/ox1jhhBDTLQN1zCypkF\nugA9vSXom3W0+WadZ+byxp8k480OupKxgeJ7H1bFN2kNSZklRXy/ORpkQwKBgATW\n4lbbhQGh6qkB/4FgP7uG35aFf9oy8shdQPbDOWj+iVj+zDBmM2BncrHSptzxY91h\nljHAOSutV+cKHY3aatJF0xaiDcYKDIRZStrxFgZOHkRx8xpj+fM3gQ4xUAPL/6xQ\nD3gUgfyLlxZL+P747kr48oPvMDQ/+mIhUjoL1hm9AoGBAMXuJID3PhH22oR+WH2U\nqZJ0JUgjjlJgvwiWkl+ZTsb4/2CzkGT8DHoQM43xvt8KEBbgyJ1Kgh3sIu69+KPW\nwquavhXFjln+jbnjQc4Jk5Lk0nMFKseJGRLPvTQV6f3myhKQ5lU/K6Wp5iDv6JzD\npSA8x3huJTgaj9CM7AhLIJpS\n-----END PRIVATE KEY-----\n",
-  "client_email": "dlalogflowcmam@museum-youtube-302712.iam.gserviceaccount.com",
-  "client_id": "113160745443754230107",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dlalogflowcmam%40museum-youtube-302712.iam.gserviceaccount.com"
-} 
+
